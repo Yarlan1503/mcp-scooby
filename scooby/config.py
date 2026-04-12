@@ -22,8 +22,8 @@ VOICES: Dict[str, dict] = {
         "style": "profundo",
     },
     "Enrique": {
-        "voice_id": "e6jXBfaeBHpXh71h9m2Z",
-        "accent": "mexicano",
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+        "accent": "británico",
         "style": "storyteller",
     },
 }
